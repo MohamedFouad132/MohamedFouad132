@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Mohamed!<br>🎓 CS Student at University of South Florida (USF)<br>🤖 Aspiring ML & AI Developer<br>💻 Exploring machine learning, data science, and AI projects<br>📚 Always learning, building, and experimenting!
+👋 Hi, I’m Mohamed!<br>🎓 CS Student at University of South Florida (USF)<br>🤖 Aspiring Generative AI Engineer<br>💻 Exploring machine learning, data science, and AI projects<br>📚 Always learning, building, and experimenting!
 
 
 ## 🌐 Socials:
