@@ -1,8 +1,8 @@
 ### 💫 About Me:
 
-###$ 👋 Hi, I'm Mohamed!
+#### 👋 Hi, I'm Mohamed!
 
-####🎓 CS & Engineering Student at University of South Florida (USF)
+#### 🎓 CS & Engineering Student at University of South Florida (USF)
 
 #### 💻 I'm currently studying GPU computing and systems programming
 
