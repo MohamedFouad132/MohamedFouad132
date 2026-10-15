@@ -1,12 +1,12 @@
-## 💫 About Me:
+### 💫 About Me:
 
-### 👋 Hi, I'm Mohamed!
+###$ 👋 Hi, I'm Mohamed!
 
-### 🎓 CS & Engineering Student at University of South Florida (USF)
+####🎓 CS & Engineering Student at University of South Florida (USF)
 
-### 💻 I'm currently studying GPU computing and systems programming
+#### 💻 I'm currently studying GPU computing and systems programming
 
-### 🛠️ Projects I've built:
+#### 🛠️ Projects I've built:
 
 #### &emsp;[cuTrace](https://github.com/MohamedFouad132/cuTrace) a CUDA ray tracer that renders up to 171x faster on the GPU than on a multithreaded CPU
 
