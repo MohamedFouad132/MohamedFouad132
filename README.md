@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="skyline.gif" width="100%" alt="Skyline">
-</p>
-
 # 💫 About Me:
 👋 Hi, I'm Mohamed!<br>🏫 I'm a CS & Engineering student at the University of South Florida<br>💻 I'm currently studying GPU computing and systems programming<br>🛠️ Projects I've built:<br>&emsp;▸ [cuTrace](https://github.com/MohamedFouad132/cuTrace): a CUDA ray tracer that renders up to 171x faster on the GPU than on a multithreaded CPU<br>&emsp;▸ [mtalloc](https://github.com/MohamedFouad132/mtalloc): a multithreaded C++ memory allocator that replaces malloc and uses 16% less memory than glibc<br>🎯 My goal is to work on GPU kernels and systems software<br>
 
