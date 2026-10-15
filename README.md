@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="skyline.gif" width="70%" alt="Skyline">
+  <img src="skyline.gif" width="100%" alt="Skyline">
 </p>
 
 # 💫 About Me:
